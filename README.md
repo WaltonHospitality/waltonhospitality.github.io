@@ -10,3 +10,6 @@ V1.3 change:
 The rest of V1.2 remains unchanged.
 
 Do not change 123 Reg DNS until the site is approved and GitHub Pages is configured.
+
+
+V1.4 update: improved mobile navigation, added a dedicated mobile hero image for legibility, and added the founder LinkedIn link to Contact and footer.
