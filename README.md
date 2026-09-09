@@ -1,4 +1,4 @@
-# Walton Hospitality Initiative — Website V1.3
+# Walton Hospitality Initiative — Website V1.5.1 — Hero Fix
 
 Final review prototype.
 
